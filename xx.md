@@ -20,7 +20,7 @@
 
 **加入方式2：**
 钉钉扫码加入：
-![image](https://yqfile.alicdn.com/1900a3bf685fcde9314b096e51a860a149cf7ed8.png)
+![image](./1.png)
 
 **（2）微信群**
 由于微信群已经超过100人，需要先加我们的同学，再拉入群
